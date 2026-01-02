@@ -4,12 +4,12 @@ consistent habits by tracking daily activities, calculating streaks,
 sending reminders, and providing progress analytics and inSights.
 #features:
 # Features
-- User authentication (Signup / Login with JWT)
-- Create, update, and delete daily habits
-- Daily habit completion tracking
-- Automatic streak calculation (current & longest)
-- Reminder notifications using Browser Notification API
-- Progress analytics with charts (weekly & monthly)
-- Habit insights (best performing days & consistency)
-- Dark mode with persistent theme preference
-- Fully responsive UI
+User authentication (Signup / Login with JWT)
+ Create, update, and delete daily habits
+ Daily habit completion tracking
+ Automatic streak calculation (current & longest)
+ Reminder notifications using Browser Notification API
+ Progress analytics with charts (weekly & monthly)
+ Habit insights (best performing days & consistency)
+ Dark mode with persistent theme preference
+ Fully responsive UI
